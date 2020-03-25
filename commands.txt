@@ -1,0 +1,10 @@
+rvfun::disasm <opcode>
+
+rvfun::load <elf>
+rvfun::addArg <string>
+rvfun::finalize
+
+rvfun::setDebug [bool]
+rvfun::hadExit
+rvfun::run <icount> [debug]
+
