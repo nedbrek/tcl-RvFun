@@ -1,7 +1,7 @@
 #include "inst.hpp"
 #include "host_system.hpp"
 #include "simple_arch_state.hpp"
-#include <tcl/tcl.h>
+#include <tcl.h>
 
 class RvFunCtxt
 {
